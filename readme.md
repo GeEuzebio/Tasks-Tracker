@@ -1,6 +1,6 @@
 # Tasks Tracker 📝
 
-This project is a command-line interface (CLI) application for managing tasks. It allows users to add, delete, update, and list tasks, as well as track their status (to-do, in-progress, or done).
+This project is a command-line interface (CLI) application for managing tasks, inspired by a challenge from the **[roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)** roadmap. It allows users to add, delete, update, and list tasks, as well as track their status (to-do, in-progress, or done).
 
 ## Features ✨
 
@@ -15,11 +15,11 @@ This project is a command-line interface (CLI) application for managing tasks. I
 ## How to Run 🚀
 
 ### Prerequisites
-Make sure you have Node.js installed on your machine. You can download it from the official [Node.js website](https://nodejs.org/).
+Make sure you have Node.js installed on your machine. You can download it from the official **[Node.js website](https://nodejs.org/)**.
 
 ### Installation
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
+1.  Clone this repository to your local machine.
+2.  Navigate to the project directory.
 
 ### Usage
 To use the application, run the `index.js` file from your terminal with the following commands:
